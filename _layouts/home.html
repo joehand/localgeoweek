@@ -12,13 +12,14 @@ layout: default
     </div>
 </div>
 
-<div class="home-wrapper">
+<div id="about" class="home-wrapper">
     <div class="home-content">
-        <h2  id="about" class="content-head is-center">About</h2>
+        <h2 class="content-head is-center">About</h2>
         <p class="content-description is-center">{{page.description}}</p>
+        <h4 class="content-head is-center">A global network event in November 2015.</h4>
         <div class="pure-g">
             {% for box in page.about-contents %}
-            <div class="l-box pure-u-1 pure-u-md-1-3">
+            <div class="l-box pure-u-1-1 pure-u-md-1-4">
                 <h3 class="content-subhead">
                     {{box.title}}
                 </h3>
