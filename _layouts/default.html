@@ -21,6 +21,21 @@
       {{content}}
       </div>
     </div>
+    <script src="{{site.baseurl}}/js/vanillaSlideshow.min.js"></script>
+    <script>
+        vanillaSlideshow.init({
+          // auto slideshow, options: true or false
+          slideshow: true,
+          // slideshow delay
+          delay: 3200,
+          // display arrows, options: true or false
+          arrows: false,
+          // display indicators, options: true or false
+          indicators: false,
+          // animation speed
+          animationSpeed: '2s'
+        });
+    </script>
     {% include analytics.html %}
   </body>
 </html>
