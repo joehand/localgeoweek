@@ -1,11 +1,11 @@
 <div class="site-header pure-menu pure-menu-horizontal pure-menu-fixed">
-    <a class="pure-menu-heading" href="{{ site.baseurl }}">{{site.name}}</a>
+    <a class="pure-menu-heading" href="{{ site.url }}">{{site.name}}</a>
 
     <ul class="pure-menu-list">
         {% if site.navigation %}
         {% for nav in site.navigation %}
         <li class="pure-menu-item">
-            <a href="{{ site.baseurl }}{{nav.url}}" class="pure-menu-link">{{nav.text}}</a>
+            <a href="{{ site.url }}{{nav.url}}" class="pure-menu-link">{{nav.text}}</a>
         </li>
         {% endfor %}
         {% endif %}

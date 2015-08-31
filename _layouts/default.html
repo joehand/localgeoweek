@@ -21,7 +21,9 @@
       {{content}}
       </div>
     </div>
-    <script src="{{site.baseurl}}/js/vanillaSlideshow.min.js"></script>
+
+    {% if page.slideshow %}
+    <script src="{{site.url}}/js/vanillaSlideshow.min.js"></script>
     <script>
         vanillaSlideshow.init({
           // auto slideshow, options: true or false
@@ -36,6 +38,7 @@
           animationSpeed: '2s'
         });
     </script>
+    {% endif %}
     {% include analytics.html %}
   </body>
 </html>
