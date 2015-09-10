@@ -17,6 +17,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 navigation:
 - text: About
   url: '#about'
+- text: Tools
+  url: '/tools/'
 
 # Includes an icon in the footer for each username you enter
 contact-links:
