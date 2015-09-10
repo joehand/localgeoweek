@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapillary
-url: http://www.mapillary.com/map
+website: http://www.mapillary.com/map
 open-source: true
 ---
 

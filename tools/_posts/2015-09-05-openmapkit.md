@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenMapKit
-url: http://openmapkit.org/
+website: http://openmapkit.org/
 open-source: true
 ---
 

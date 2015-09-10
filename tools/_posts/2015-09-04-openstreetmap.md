@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenStreetMap
-url: http://www.openstreetmap.org/
+website: http://www.openstreetmap.org/
 open-source: true
 ---
 
