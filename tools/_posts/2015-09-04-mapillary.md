@@ -2,7 +2,12 @@
 layout: post
 title: Mapillary
 website: http://www.mapillary.com/map
-open-source: true
+type: Data Collection
+tags:
+ - Open Source
+ - Mapping
+ - Mobile
+
 ---
 
 Mapillary is a passionate community of people who capture, share and explore street level photos. Anyone can join the community and collect photos by using simple tools like smartphones or action cameras.

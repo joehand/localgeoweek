@@ -2,8 +2,14 @@
 layout: post
 title: FieldPapers
 website: http://fieldpapers.org/
-open-source: true
+type: Data Collection
+tags:
+ - OpenStreetMap
+ - Open Source
+ - Mapping
+
 ---
+
 Field Papers is a tool to help you create a multi-page atlas of anywhere in the world. Once you print it, you can take it outside, into the field, to record notes and observations about the area you're looking at, or use it as your own personal tour guide in a new city.
 
 Later, you can photograph each page in the atlas, and upload back into Field Papers. These photographs are called "snapshots" on the site. When you upload a snapshot, it's connected automatically to the atlas from whence it came. You can transcribe any notes you made in the field into Field Papers (as points or areas) and share the result with your friends, or download your notes for later analysis.

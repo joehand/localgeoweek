@@ -2,10 +2,14 @@
 layout: post
 title: OpenStreetMap
 website: http://www.openstreetmap.org/
-open-source: true
+type: Data Collection
+tags:
+ - OpenStreetMap
+ - Open Source
+
 ---
 
-OpenStreetMap is a free geographic data.
+OpenStreetMap is a free geographic database.
 
 OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
 
