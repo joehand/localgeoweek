@@ -3,10 +3,33 @@ layout: page
 title: Tools for Local Data
 ---
 
-These tools can help communities collect data.
+<p>Through Local Geo Week we hope to introduce users to tools for collecting local data within community contexts. We have been involved in developing, testing, and expanding many tools primarily focused around <a href="http://openstreetmap.org">OpenStreetMap</a> and <a href="http://opendatakit.org/">OpenDataKit</a>.</p>
+<p>This guide will help users identify what tools will help with their data collection goals.</p>
 
-<br/>
-{% for post in site.categories.tools %}
+<hr class='fancy-line'/>
+<div class="tags pure-g">
+{% for tag in site.tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    {% if t == "OpenStreetMap" or t == "OpenDataKit" %}
+    <ul class="pure-u-1-2">
+    <h4 class="is-center">{{ t }}</h4>
+    <div class="pure-g">
+    {% for post in posts %}
+      {% if post.tags contains t %}
+      <li class="pure-u-1-2">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </div>
+    </ul>
+    {% endif %}
+{% endfor %}
+</div>
+
+<hr class='fancy-line'/>
+{% for post in site.categories.tools reversed %}
     <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
     <p><a href="{{post.website}}">{{post.website}}</a></p>
     {{ post.excerpt }}
