@@ -19,6 +19,9 @@ navigation:
   url: '#about'
 - text: Tools
   url: '/tools/'
+- text: Stories
+  url: '/blog/'
+
 
 # Includes an icon in the footer for each username you enter
 contact-links:
