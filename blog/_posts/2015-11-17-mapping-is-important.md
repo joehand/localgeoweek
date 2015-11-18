@@ -3,7 +3,8 @@ layout: post
 title: In Short, "Mapping Is Important"
 category: SDI
 
-excerpt: “Mapping helps in starting the upgrading process for our communities, as partners in the development process” – Rebekka, Oshikoto Region, Namibia Shack Dwellers Federation
+excerpt: |
+    “Mapping helps in starting the upgrading process for our communities, as partners in the development process” <br/> – Rebekka, Oshikoto Region, Namibia Shack Dwellers Federation
 
 ---
 
