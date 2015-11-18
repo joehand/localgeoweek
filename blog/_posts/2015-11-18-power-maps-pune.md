@@ -43,3 +43,4 @@ Along with planning our interventions we also use GIS-Google Earth maps to measu
 
 The information we collected became a powerful tool.  We not only put together robust project at planning level and conceived a model which can be scaled upward to achieve greater impact but also made the information available to others on an open source platform to conduct interventions in their respective fields. The data we have gathered is available on our website and local governments of the cities we have worked in have linked their website to ours to guide users to the data.
 
+**Learn more about Shelter Associates on their website: <a href="http://shelter-associates.org/" target="_blank">shelter-associates.org</a>.**
