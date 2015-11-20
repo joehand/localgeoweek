@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Paths of Phule Nagar
-category: SDI
+category: Santa-Fe-Institute
 
 excerpt: |
     Slums, like any other neighborhood require accesses in and out of places of residence and work.
