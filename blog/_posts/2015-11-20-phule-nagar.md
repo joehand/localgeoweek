@@ -17,7 +17,7 @@ Often though, such accesses are so narrow that slum upgrading requires very fine
 The <a href="http://www.santafe.edu/research/cities-scaling-and-sustainability/">Santa Fe Institute Cities Project</a> is working with slum-dweller communities to understand these issues and to create better maps of the land uses in theses settlements. The picture below shows an analysis of path width in Mankhurd Phule Nagar, an informal settlement in Mumbai, India. The original map was developed by community members in collaboration with <a href="http://www.sparcindia.org/">SPARC</a> and the Mumbai Railway Corporation. Our group has digitized the map, which in turn has allowed us to analyze the fine structure of widths of various paths and public spaces, shown in different colors.
 
 
-![Picture 1]({{ site.url }}/images/blog_images/sfi_phule_1.png)
+![Picture 1]({{ site.url }}/images/blog_images/SFI_phule_1.png)
 
 <div class="caption">The width of access paths in Mankhurd Phule Nagar, an informal settlement in Mumbai, India. Digitized by: Eliza Harrison and Christa Brelsford</div>
 
